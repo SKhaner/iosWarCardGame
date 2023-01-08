@@ -1,3 +1,3 @@
 # iosWarGame
 
-War.png
+![This is an image](War.png)
