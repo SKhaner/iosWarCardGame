@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D34C74AB296FB01C001B0960 /* gamePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34C74AA296FB01C001B0960 /* gamePage.swift */; };
 		D3D6E8E22960C9CA00939AE4 /* war_challangeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D6E8E12960C9CA00939AE4 /* war_challangeApp.swift */; };
 		D3D6E8E42960C9CA00939AE4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3D6E8E32960C9CA00939AE4 /* ContentView.swift */; };
 		D3D6E8E62960C9CB00939AE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3D6E8E52960C9CB00939AE4 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D34C74AA296FB01C001B0960 /* gamePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gamePage.swift; sourceTree = "<group>"; };
 		D3D6E8DE2960C9CA00939AE4 /* War.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = War.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3D6E8E12960C9CA00939AE4 /* war_challangeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = war_challangeApp.swift; sourceTree = "<group>"; };
 		D3D6E8E32960C9CA00939AE4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 		D3D6E8E02960C9CA00939AE4 /* war-challange */ = {
 			isa = PBXGroup;
 			children = (
+				D34C74AA296FB01C001B0960 /* gamePage.swift */,
 				D3D6E8E12960C9CA00939AE4 /* war_challangeApp.swift */,
 				D3D6E8E32960C9CA00939AE4 /* ContentView.swift */,
 				D3D6E8E52960C9CB00939AE4 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D34C74AB296FB01C001B0960 /* gamePage.swift in Sources */,
 				D3D6E8E42960C9CA00939AE4 /* ContentView.swift in Sources */,
 				D3D6E8E22960C9CA00939AE4 /* war_challangeApp.swift in Sources */,
 			);
